@@ -8,6 +8,8 @@ public class Player {
 		this.mark =2;
 		this.ship = ship;
 	}
+	
+	public Player(){}
 	public int getId() {
 		return id;
 	}
